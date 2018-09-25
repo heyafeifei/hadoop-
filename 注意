@@ -1,0 +1,4 @@
+(1)program arguments:
+C:\Users\Administrator\workSpace\hadoop_local_debug\out\artifacts\maxtemperature\maxtemperature.jar com.hadoop.maxtemperature.MaxTemperature input/ output/
+路径看着改
+（2）运行前删除output文件夹
