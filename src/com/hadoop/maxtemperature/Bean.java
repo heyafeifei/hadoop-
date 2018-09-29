@@ -10,12 +10,7 @@ import java.io.IOException;
 
 public class Bean implements WritableComparable<Bean> {
 
-<<<<<<< HEAD
 
-    //test    
-
-=======
->>>>>>> 2dc690bec126f0987e1181f54ba9a064f65f148d
     private IntWritable year; //年
     private IntWritable temperature; //温度
 
@@ -46,10 +41,6 @@ public class Bean implements WritableComparable<Bean> {
         this.temperature = temperature;
     }
 
-<<<<<<< HEAD
-    
-=======
->>>>>>> 2dc690bec126f0987e1181f54ba9a064f65f148d
     public void set(IntWritable year, IntWritable temperature) {
         this.year = year;
         this.temperature = temperature;
